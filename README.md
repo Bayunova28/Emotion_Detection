@@ -1,5 +1,5 @@
-# Emotion Detection
-<img src="https://github.com/Bayunova28/Emotion_Detection/blob/main/Emotion.png" height="500" width="1000">
+# Real Time Emotion Detection
+<img src="https://github.com/Bayunova28/Emotion_Detection/blob/main/Emotion.png" height="400" width="1000">
 
 Emotion detection is a method used in software that permits a program to examine the sentiments on a human face by utilizing sophisticated image dispensation. 
 Firms have been testing with an amalgamation of advanced formulas with image processing practices that have materialized in the last decade to appreciate more regarding what 
